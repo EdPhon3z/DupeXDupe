@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationIcon>Assets\dupefinder.ico</ApplicationIcon>
+    <AssemblyName>DupeXDupe</AssemblyName>
+    <RootNamespace>DupeXDupe</RootNamespace>
+    <Product>DupeXDupe</Product>
+    <Title>DupeXDupe</Title>
+  </PropertyGroup>
+
+</Project>
